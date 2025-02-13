@@ -77,7 +77,7 @@
 <br>
 
 ### 5. 주요 기술 - 관리자 전용 웹
-* Flask, AWS EC2를 이용하여 클라우드 웹 구축
+* **Flask, AWS EC2**를 이용하여 클라우드 웹 구축
 * 웹 서버는 받은 데이터와 이미지를 웹 페이지의 테이블에 표시
 
 ![image](https://github.com/user-attachments/assets/f523efc9-8c4a-4952-b643-a1e754f81285)
